@@ -1,0 +1,5 @@
+# Core (none required for base Twitch watcher)
+# Optional for auto redeem functionality:
+psutil
+pywin32
+pywinauto

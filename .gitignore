@@ -1,0 +1,18 @@
+# Virtual env
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Env files (if you create one manually)
+.env
+
+# Tokens / artifacts
+.token.json
+
+# Logs
+*.log
+
+# Example env should not be used directly but keep tracked (negate if needed)
+!.env.example
